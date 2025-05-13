@@ -23,7 +23,6 @@ Um site moderno e responsivo para barbearias, desenvolvido com **React + Vite**.
 
 ---
 
-## 🧪 Como rodar o projeto localmente
 
 ### 1. Clone o repositório
 
