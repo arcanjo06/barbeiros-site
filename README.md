@@ -27,5 +27,5 @@ Um site moderno e responsivo para barbearias, desenvolvido com **React + Vite**.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/barbearia-top-style.git
+git clone [https://github.com/seu-usuario/barbearia-top-style.git](https://github.com/arcanjo06/barbeiros-site.git)
 cd barbearia-top-style
